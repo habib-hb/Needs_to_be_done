@@ -1,0 +1,1 @@
+In next.js+laravel project, the product id 3 item is being duplicated. Needs more research
